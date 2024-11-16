@@ -9,3 +9,7 @@ https://github.com/FreeKnowledgeShared/freeBook/tree/main/LLResearch
 https://github.com/FreeKnowledgeShared/freeBook/tree/main/HARC
 
 ### 3 Edgar Cayce
+https://github.com/FreeKnowledgeShared/freeBook/tree/main/EdgarCayce
+
+### 4 astrology
+https://github.com/FreeKnowledgeShared/freeBook/tree/main/Astrology
