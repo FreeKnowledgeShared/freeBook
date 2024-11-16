@@ -1,5 +1,6 @@
 # freeBook
 
+personal favorite book, hope they can help you
 个人收藏的书籍，希望能帮助到你们
 
 ### 1 LLResearch
