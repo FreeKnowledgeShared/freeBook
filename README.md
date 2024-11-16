@@ -6,5 +6,6 @@
 https://github.com/FreeKnowledgeShared/freeBook/tree/main/LLResearch
 
 ### 2 HARC
+https://github.com/FreeKnowledgeShared/freeBook/tree/main/HARC
 
 ### 3 Edgar Cayce
