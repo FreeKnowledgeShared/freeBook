@@ -16,3 +16,9 @@ https://github.com/FreeKnowledgeShared/freeBook/tree/main/Astrology
 
 ### 5 GoldenDawn
 https://github.com/FreeKnowledgeShared/freeBook/tree/main/GoldenDawn
+
+### 6 Nikola Tesla
+https://github.com/FreeKnowledgeShared/freeBook/tree/main/NikolaTesla
+
+### 7 倪海厦
+https://github.com/FreeKnowledgeShared/freeBook/tree/main/倪海厦
