@@ -1,5 +1,7 @@
 ## 链接：https://har.center/
 
+Please note that the original content can be found at the link above. Here, only my personally translated portions are uploaded. According to HARC's requirements, please credit the source when reusing, and do not use it for commercial purposes.
+
 注意，原文内容可以从上述链接找到。
 这里仅仅上传个人翻译的部分内容。根据HARC要求，转载请注明来源，请勿用做商业用途。
 
