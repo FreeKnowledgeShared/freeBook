@@ -13,3 +13,6 @@ https://github.com/FreeKnowledgeShared/freeBook/tree/main/EdgarCayce
 
 ### 4 astrology
 https://github.com/FreeKnowledgeShared/freeBook/tree/main/Astrology
+
+### 5 GoldenDawn
+https://github.com/FreeKnowledgeShared/freeBook/tree/main/GoldenDawn
