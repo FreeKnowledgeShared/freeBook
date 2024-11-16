@@ -1,4 +1,4 @@
-## 占星学相关书籍
+## Astrology
 
-#### 1 人格占星术
+#### 1 The Astrology of Personality
 https://github.com/FreeKnowledgeShared/freeBook/blob/main/Astrology/TheAstrologyofPersonality.pdf
