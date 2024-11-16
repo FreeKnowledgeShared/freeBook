@@ -6,3 +6,10 @@ https://github.com/FreeKnowledgeShared/freeBook/blob/main/GoldenDawn/(Llewellyn'
 
 #### 2 The Complete Golden Dawn System of Magic
 https://github.com/FreeKnowledgeShared/freeBook/blob/main/GoldenDawn/Israel-Regardie-The-Complete-Golden-Dawn-System-of-Magic-The-Original-Falcon-Press-_2011_.pdf
+
+### Aleister Crowley
+#### 1 Book of Lies-Krishna
+https://github.com/FreeKnowledgeShared/freeBook/blob/main/GoldenDawn/Aleister%20Crowley%20-%20Book%20of%20Lies-Krishna%20Pr%20(1973).pdf
+
+#### 2 The Heart of the Master
+https://github.com/FreeKnowledgeShared/freeBook/blob/main/GoldenDawn/Aleister%20Crowley%20-%20The%20Heart%20of%20the%20Master.pdf
