@@ -22,3 +22,6 @@ https://github.com/FreeKnowledgeShared/freeBook/tree/main/NikolaTesla
 
 ### 7 倪海厦
 https://github.com/FreeKnowledgeShared/freeBook/tree/main/倪海厦
+
+### 8 Kybalion
+https://github.com/FreeKnowledgeShared/freeBook/tree/main/Kybalion
